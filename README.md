@@ -25,7 +25,7 @@ Link: [Demo project](#)
 
 <!-- <!-- [![](https://imgur.com/s4FWb9b)](https://ipcc.rohitswami.com) -->
 ## Cats vs. Dogs Image Classification
-![Mobile Device Usage Behavior](https://imgur.com/undefined)
+![Mobile Device Usage Behavior](https://i.imgur.com/1CZb4eR.png)
 
 ## Overview
 This project leverages machine learning to classify mobile device usage behaviors into five distinct categories: Light, Moderate, Heavy, Very Heavy, and Extreme Usage. By analyzing metrics such as app usage time, screen-on time, battery drain, and data consumption, the project demonstrates the practical application of machine learning in user behavior analysis.
